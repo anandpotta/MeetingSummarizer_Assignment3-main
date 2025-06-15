@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+
+# Secrets
+secrets.py
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
